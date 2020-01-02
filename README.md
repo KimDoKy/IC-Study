@@ -7,6 +7,7 @@
  - jenkins   [...]
 - micro service (Flask)
 - Gunicorn
+- Fabric
 - Chat App with Vue.js
 - Nuxt.js, Node.js
 - project
@@ -25,3 +26,8 @@
 - secret 파일들은 scp로 복사 진행(권한 문제로 시간을 많이 뺏김)
 - 스터디 이후 배포 테스트중
 - nginx, uwsgi 작동까지 완료
+
+### 2주차
+
+- 전 주에 DockerHub를 활용한 Deploy는 정상 작동 확인 완료
+- 해당 프로젝트를 Jenkins 이용해보기
